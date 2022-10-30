@@ -1,0 +1,230 @@
+.theme-color{
+    background-color: #1ABC9C;
+}
+
+.text-color{
+    color: #1ABC9C!important;
+}
+
+.navbar-nav li a:hover{
+    color: #1ABC9C!important;
+}
+
+.my-caption{
+    bottom: 170px;
+}
+
+.slider-pic{
+    background-image: url("../img/slider.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    /*width: 100%;*/
+}
+
+.bg-carousel{
+    background: rgba(0,0,0,0.52);
+    height: 500px;
+}
+
+.carousel-control-prev-icon
+{
+    background-color: #1ABC9C;
+    left: 0px;
+    position: absolute;
+    padding: 40px;
+}
+.carousel-control-next-icon{
+    background-color: #1ABC9C;
+    right: 0px;
+    position: absolute;
+    padding: 40px;
+}
+
+.feature-card:hover i,.feature-card:hover h5{
+    color: #1ABC9C;
+}
+
+.bg-collection{
+    background-color: #E9F0FD;
+}
+
+.line1{
+    width: 150px;
+    height: 3px;
+    background-color: #1ABC9C;
+    margin-left: 35%;
+    margin-top: 2px;
+}
+
+.line2{
+    width: 150px;
+    height: 8px;
+    background-color: #1ABC9C;
+    margin-left: 35%;
+    margin-top: 2px;
+}
+
+.collection-body{
+    background-color: #999999;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+}
+
+.btn1{
+    background-color: #323232;
+    color: white;
+    width: 80%;
+    float: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 7px;
+}
+.btn2{
+    color: white;
+    text-decoration: none;
+    float: right;
+    width: 20%;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 7px;
+}
+
+.collection-body-hover{
+    height: 87.8%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.52);
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+ .card-collection:hover .collection-body-hover{
+     display: block;
+ }
+
+ .mt-10{
+     margin-top: 45%;
+ }
+
+ .card-collection:hover .btn1{
+     background-color: #1ABC9C;
+     color: white;
+ }
+.card-collection:hover .btn2{
+     background-color: #8ED4C6;
+     color: white;
+ }
+
+.bg-end{
+    background-image: url("../img/offer-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.inner-bg{
+    background-color: rgba(0,0,0,0.5);
+}
+
+.member-image{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+    margin-left: 40%;
+}
+
+.customer-caption{
+    color: black;
+    position: relative;
+    top: 10px;
+    width: 75%;
+    height: 250px;
+}
+
+.customer-indicators{
+    /*background-color: #1ABC9C;*/
+    top: 420px;
+}
+
+.carousel-indicators .active {
+    border-color: #1ABC9C!important;
+}
+
+.bg-indicator1{
+    background-image: url("../img/student2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    height: 75px!important;
+    width: 75px!important;
+    border: 3px solid black!important;
+}
+.bg-indicator2{
+    background-image: url("../img/student.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    height: 75px!important;
+    width: 75px!important;
+    border: 3px solid black!important;
+}
+.bg-indicator3{
+    background-image: url("../img/student1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    height: 75px!important;
+    width: 75px!important;
+    border: 3px solid black!important;
+}
+
+.newsletter-section{
+    background-color: #1ABC9C;
+    background-image: url("../img/bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lineNewsletter1{
+    width: 150px;
+    height: 3px;
+    background-color: white;
+    margin-left: 35%;
+    margin-top: 2px;
+}
+
+.lineNewsletter2{
+    width: 150px;
+    height: 8px;
+    background-color: white;
+    margin-left: 35%;
+    margin-top: 2px;
+}
+
+.submit-position{
+    position: absolute;
+    right: 2px;
+    top: 2px;
+    height: 54px;
+    width: 20%;
+}
+
+.submit-btn{
+    background-color: #1ABC9C;
+    color: white;
+}
+.partner-section{
+    background-color: #E9F0FD;
+}

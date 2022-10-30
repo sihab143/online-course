@@ -1,0 +1,14 @@
+Feature list of the Project:
+
+Total Panel:
+	1. Website
+	2. Admin Panel
+	3. Teacher Panel
+	4. Student Panel
+
+1. Feature list of Website
+	a. A simple website with Home page, Course Page,  
+	b.
+2. Feature list of Admin Panel
+3. Feature list of Teacher Panel
+4. Feature list of Student Panel
